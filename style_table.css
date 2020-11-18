@@ -1,0 +1,11 @@
+td, th {
+    border: 4px dashed red;
+   }
+   
+   th {
+     background-color: orange;
+   }
+   
+   table {
+    border-collapse:collapse;
+   }
